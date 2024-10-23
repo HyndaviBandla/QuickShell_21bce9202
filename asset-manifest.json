@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-app_Deploy/static/css/main.e2a20b33.css",
+    "main.js": "/my-app_Deploy/static/js/main.3b95b515.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app_Deploy/static/js/453.ed3810f9.chunk.js",
+    "static/media/Display.svg": "/my-app_Deploy/static/media/Display.0168095040354204011b596e30abf32e.svg",
+    "static/media/Cancelled.svg": "/my-app_Deploy/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/three-dot.svg": "/my-app_Deploy/static/media/three-dot.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/No-priority.svg": "/my-app_Deploy/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/Done.svg": "/my-app_Deploy/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/Down.svg": "/my-app_Deploy/static/media/Down.b19d146ddbaad572f0f5cebb6dbdf766.svg",
+    "index.html": "/my-app_Deploy/index.html",
+    "static/media/Img-LowPriority.svg": "/my-app_Deploy/static/media/Img-LowPriority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Img-MediumPriority.svg": "/my-app_Deploy/static/media/Img-MediumPriority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/Img-HighPriority.svg": "/my-app_Deploy/static/media/Img-HighPriority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/add.svg": "/my-app_Deploy/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/In-Progress.svg": "/my-app_Deploy/static/media/In-Progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/SVG - UrgentPrioritycolour.svg": "/my-app_Deploy/static/media/SVG - UrgentPrioritycolour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/my-app_Deploy/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To-do.svg": "/my-app_Deploy/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.e2a20b33.css.map": "/my-app_Deploy/static/css/main.e2a20b33.css.map",
+    "main.3b95b515.js.map": "/my-app_Deploy/static/js/main.3b95b515.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app_Deploy/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a20b33.css",
+    "static/js/main.3b95b515.js"
+  ]
+}
